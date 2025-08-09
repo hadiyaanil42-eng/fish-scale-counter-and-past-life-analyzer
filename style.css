@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #e0f7fa;
+    padding: 20px;
+}
+
+h1 {
+    color: #006064;
+}
+
+#imageUpload {
+    margin: 15px;
+    padding: 10px;
+}
+
+canvas {
+    border: 3px solid #004d40;
+    background-color: white;
+    margin-top: 20px;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #004d40;
+    padding: 10px;
+    background-color: #b2dfdb;
+    border-radius: 10px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
