@@ -30,62 +30,18 @@ For Software:
 -Libraries used: None (random number generator and imagination engine built-in)
 -Tools used: VS Code, Git, GitHub, Web Browser
 
-
-
-
 For Hardware:
 -Main components: Computer/laptop, mouse/trackpad, eyes
 -Specifications: Any device with a browser, decent display
 Tools required: Internet connection, camera/phone, sense of humor
 
-### Project Documentation
-For Software:
-
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
+![Screenshot1](Screenshot 2025-08-09 163639.png)
+* THE COUNT OF THE SCALES AND THE PAST LIFE OF THE FISH BASED ON THE SCALES*
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- HADIYA ANIL:FINDED THE IDEA AND IMPLEMENTED
+- NABEESA FARSANA:HELPED WITH CODING AND IMPLEMENTATION
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
