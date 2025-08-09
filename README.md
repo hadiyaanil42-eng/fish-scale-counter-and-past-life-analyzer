@@ -36,7 +36,7 @@ For Hardware:
 Tools required: Internet connection, camera/phone, sense of humor
 
 # Screenshots (Add at least 3)
-![Screenshot1](Screenshot 2025-08-09 163639.png)
+![Screenshot1](https://github.com/hadiyaanil42-eng/fish-scale-counter-and-past-life-analyzer/blob/main/Screenshot%202025-08-09%20163639.png)
 * THE COUNT OF THE SCALES AND THE PAST LIFE OF THE FISH BASED ON THE SCALES*
 
 ## Team Contributions
